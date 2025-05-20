@@ -1,3 +1,3 @@
 # Workshop
-Repository for Unity Workshop at ANT
-made by Pimwipha aka Reneé Coco
+Repository for Unity Workshop Assignment at ANT
+made by Pimwipha Cheaptumrong 
